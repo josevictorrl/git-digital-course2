@@ -1,4 +1,4 @@
 # Curso Digital: Git
 
 ## Salvando alterações no Git
-* comanda git push
+* comando git push
